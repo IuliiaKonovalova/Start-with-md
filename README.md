@@ -4,6 +4,7 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 ## Table of Contents
 
+**Note**: This is a sample table of contents. However, it is not necessary to have a table of contents in your *GitHub readme* as it will be automatically generated if you apply the *correct headers*.
 
 1. [Headers](#headers)
     - [Subheaders](#subheaders)
