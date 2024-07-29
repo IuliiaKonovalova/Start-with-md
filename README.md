@@ -30,6 +30,15 @@ Links are created using the `[text](link)` format.
 [Link](https://example.com)
 ```
 
+## Images
+
+Images are created using`![alt text](image path)` format.
+
+```markdown
+![Alt Text](https://example.com/image.jpg)
+```
+
+
 
 
 
