@@ -22,4 +22,14 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 9. [Tables](#tables)
 10. [Files](#files)
 
+## Links
+
+Links are created using the `[text](link)` format.
+
+```markdown
+[Link](https://example.com)
+```
+
+
+
 
