@@ -38,6 +38,9 @@ Images are created using`![alt text](image path)` format.
 ![Alt Text](https://example.com/image.jpg)
 ```
 
+*Note 1:* Remember to add the `alt` attribute to the image tag.
+*Note 2:* The image path should be relative to the current file.
+
 
 
 
