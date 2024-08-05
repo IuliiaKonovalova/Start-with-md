@@ -45,5 +45,17 @@ Images are created using`![alt text](image path)` format.
 
 Text formatting includes bold, italic, strikethrough, and inline code.
 
+### Bold Text
+
+```markdown
+**bold text**
+```
+
+### Italic Text
+
+```markdown
+*italic text*
+```
+
 
 
