@@ -57,5 +57,18 @@ Text formatting includes bold, italic, strikethrough, and inline code.
 *italic text*
 ```
 
+### Strikethrough Text
+
+```markdown
+~~strikethrough text~~
+```
+
+### Inline Code
+
+```markdown
+`inline code`
+```
+
+
 
 
