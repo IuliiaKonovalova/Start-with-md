@@ -103,5 +103,16 @@ Code blocks are created using the ````code```` format.
     ```
 ```
 
+## Horizontal Rules
+
+Horizontal rules are created using the `---` symbol.
+
+```markdown
+---
+---
+---
+```
+
+
 
 
