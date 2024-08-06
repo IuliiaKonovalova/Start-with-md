@@ -69,6 +69,24 @@ Text formatting includes bold, italic, strikethrough, and inline code.
 `inline code`
 ```
 
+## Blockquotes
+
+Blockquotes are created using the `>` symbol.
+
+```markdown
+> Blockquote
+```
+
+
+## Code Blocks
+
+Code blocks are created using the ````code```` format.
+
+```markdown
+    ```python
+    print("Hello, World!")
+    ```
+```
 
 
 
