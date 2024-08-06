@@ -88,5 +88,20 @@ Code blocks are created using the ````code```` format.
     ```
 ```
 
+```markdown
+    ```css
+    .navbar {
+      background-color: #333;
+      color: white;
+    }
+    ```
+```
+
+```markdown
+    ```javascript
+    console.log("Hello, World!");
+    ```
+```
+
 
 
