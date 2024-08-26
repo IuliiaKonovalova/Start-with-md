@@ -103,6 +103,17 @@ Code blocks are created using the ````code```` format.
     ```
 ```
 
+
+<!-- add for command line -->
+
+*Note 1:* if you want to add for command line, you can use the `code` tag.
+
+```markdown
+    ```code
+    python -c "print('Hello, World!')"
+    ```
+```
+
 ## Horizontal Rules
 
 Horizontal rules are created using the `---` symbol.
