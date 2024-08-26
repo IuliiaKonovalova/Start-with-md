@@ -103,10 +103,7 @@ Code blocks are created using the ````code```` format.
     ```
 ```
 
-
-<!-- add for command line -->
-
-*Note 1:* if you want to add for command line, you can use the `code` tag.
+*Note:* if you want to add for command line, you can use the `code` tag.
 
 ```markdown
     ```code
