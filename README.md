@@ -82,11 +82,34 @@ Blockquotes are created using the `>` symbol.
 
 Code blocks are created using the ````code```` format.
 
+Code blocks can be written in multiple languages.
+
+Example:
+
+```python
+print("Hello, World!")
+```
+
+Code:
+
 ```markdown
     ```python
     print("Hello, World!")
     ```
 ```
+
+---
+
+Example:
+
+```css
+.navbar {
+  background-color: #333;
+  color: white;
+}
+```
+
+Code:
 
 ```markdown
     ```css
@@ -97,6 +120,16 @@ Code blocks are created using the ````code```` format.
     ```
 ```
 
+---
+
+Example:
+
+```javascript
+console.log("Hello, World!");
+```
+
+Code:
+
 ```markdown
     ```javascript
     console.log("Hello, World!");
@@ -104,6 +137,14 @@ Code blocks are created using the ````code```` format.
 ```
 
 *Note:* if you want to add for command line, you can use the `code` tag.
+
+Example:
+
+```bash
+python -c "print('Hello, World!')"
+```
+
+Code:
 
 ```markdown
     ```code
