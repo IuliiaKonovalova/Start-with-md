@@ -162,6 +162,19 @@ Horizontal rules are created using the `---` symbol.
 ---
 ```
 
+## Tables
 
+Tables are created using the `|` symbol.
+
+```markdown
+| Header 1 | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   |
+```
+
+*Note 1:* The number of `|` symbols in each row should match the number of columns in the table.
+
+*Note 2:* You can add *images* and *other files* to the table cells as well as *links*, *lists* and *inline code*.
 
 
