@@ -178,3 +178,22 @@ Tables are created using the `|` symbol.
 *Note 2:* You can add *images* and *other files* to the table cells as well as *links*, *lists* and *inline code*.
 
 
+## Files
+
+You can add files to your Markdown document using the `[]()` format.
+
+```markdown
+[File](file.txt)
+```
+
+```markdown
+[User Journey](user-journey.pdf)
+```
+
+*Note 1:* The file path should be relative to the current file.
+
+If you create a folder `documentation` in the root directory, you can use the `[User Journey](documentation/user-journey.pdf)` format to link to a folder.
+
+```markdown
+[User Journey](documentation/user-journey.pdf)
+```
