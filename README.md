@@ -60,6 +60,9 @@ Bold text is created using the `**` symbol.
 
 *Example:* **bold text**
 
+---
+*Code:*
+
 ```markdown
 **bold text**
 ```
@@ -69,6 +72,9 @@ Bold text is created using the `**` symbol.
 Italic text is created using the `*` symbol.
 
 *Example:* *italic text*
+
+---
+*Code:*
 
 ```markdown
 *italic text*
@@ -80,6 +86,9 @@ Strikethrough text is created using the `~~` symbol.
 
 *Example:* ~~strikethrough text~~
 
+---
+*Code:*
+
 ```markdown
 ~~strikethrough text~~
 ```
@@ -87,6 +96,13 @@ Strikethrough text is created using the `~~` symbol.
 ## Blockquotes
 
 Blockquotes are created using the `>` symbol.
+
+
+*Example:*
+> Blockquote
+
+---
+*Code:*
 
 ```markdown
 > Blockquote
@@ -97,8 +113,16 @@ Blockquotes are created using the `>` symbol.
 
 ### Inline Code
 
+Inline code is created using the `inline code` format.
+
+*Example:*
+`git status`
+
+---
+*Code:*
+
 ```markdown
-`inline code`
+`git status`
 ```
 
 ### Code Blocks
@@ -107,13 +131,14 @@ Code blocks are created using the ````code```` format.
 
 Code blocks can be written in multiple languages.
 
-Example:
+*Example:*
 
 ```python
 print("Hello, World!")
 ```
 
-Code:
+---
+*Code:*
 
 ```markdown
     ```python
@@ -123,7 +148,7 @@ Code:
 
 ---
 
-Example:
+*Example:*
 
 ```css
 .navbar {
@@ -132,7 +157,9 @@ Example:
 }
 ```
 
-Code:
+---
+*Code:*
+
 
 ```markdown
     ```css
@@ -145,13 +172,15 @@ Code:
 
 ---
 
-Example:
+*Example:*
 
 ```javascript
 console.log("Hello, World!");
 ```
 
-Code:
+---
+*Code:*
+
 
 ```markdown
     ```javascript
@@ -161,13 +190,14 @@ Code:
 
 *Note:* if you want to add for command line, you can use the `code` tag.
 
-Example:
+*Example:*
 
 ```bash
 python -c "print('Hello, World!')"
 ```
 
-Code:
+---
+*Code:*
 
 ```markdown
     ```code
@@ -179,6 +209,11 @@ Code:
 
 Horizontal rules are created using the `---` symbol.
 
+*Example:*
+
+---
+*Code:*
+
 ```markdown
 ---
 ---
@@ -189,6 +224,16 @@ Horizontal rules are created using the `---` symbol.
 
 Tables are created using the `|` symbol.
 
+*Example:*
+
+| Header 1 | Header 2 | Header 3 |
+| -------- | -------- | -------- |
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   |
+
+
+---
+*Code:*
 ```markdown
 | Header 1 | Header 2 | Header 3 |
 | -------- | -------- | -------- |
@@ -231,6 +276,9 @@ Dropdowns are created using `<details>` and `<summary>` tags.
 Hello, World!
 </details>
 
+
+---
+*Code:*
 
 ```markdown
 <details>
