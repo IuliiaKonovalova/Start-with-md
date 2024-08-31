@@ -4,7 +4,6 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 ## Table of Contents
 
-**Note**: This is a sample table of contents. However, it is not necessary to have a table of contents in your *GitHub readme* as it will be automatically generated if you apply the *correct headers*.
 
 1. [Headers](#headers)
     - [Subheaders](#subheaders)
@@ -15,12 +14,22 @@ Markdown is a lightweight markup language that you can use to add formatting ele
     - [Bold Text](#bold-text)
     - [Italic Text](#italic-text)
     - [Strikethrough Text](#strikethrough-text)
-    - [Inline Code](#inline-code)
 6. [Blockquotes](#blockquotes)
 7. [Code Blocks](#code-blocks)
 8. [Horizontal Rules](#horizontal-rules)
 9. [Tables](#tables)
 10. [Files](#files)
+11. [Dropdowns](#dropdowns)
+
+**Note**: This is a sample table of contents. However, it is not necessary to have a table of contents in your *GitHub readme* as it will be automatically generated if you apply the *correct headers*.
+
+<details>
+<summary><b>Click to see screenshot</b></summary>
+
+![github feature table of contents](documentation/github-feature-table-of-contents.png)
+
+</details>
+
 
 ## Links
 
@@ -47,11 +56,19 @@ Text formatting includes bold, italic, strikethrough, and inline code.
 
 ### Bold Text
 
+Bold text is created using the `**` symbol.
+
+*Example:* **bold text**
+
 ```markdown
 **bold text**
 ```
 
 ### Italic Text
+
+Italic text is created using the `*` symbol.
+
+*Example:* *italic text*
 
 ```markdown
 *italic text*
@@ -59,14 +76,12 @@ Text formatting includes bold, italic, strikethrough, and inline code.
 
 ### Strikethrough Text
 
+Strikethrough text is created using the `~~` symbol.
+
+*Example:* ~~strikethrough text~~
+
 ```markdown
 ~~strikethrough text~~
-```
-
-### Inline Code
-
-```markdown
-`inline code`
 ```
 
 ## Blockquotes
@@ -79,6 +94,14 @@ Blockquotes are created using the `>` symbol.
 
 
 ## Code Blocks
+
+### Inline Code
+
+```markdown
+`inline code`
+```
+
+### Code Blocks
 
 Code blocks are created using the ````code```` format.
 
@@ -197,3 +220,4 @@ If you create a folder `documentation` in the root directory, you can use the `[
 ```markdown
 [User Journey](documentation/user-journey.pdf)
 ```
+
