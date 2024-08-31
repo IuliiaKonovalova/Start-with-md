@@ -221,3 +221,22 @@ If you create a folder `documentation` in the root directory, you can use the `[
 [User Journey](documentation/user-journey.pdf)
 ```
 
+## Dropdowns
+
+Dropdowns are created using `<details>` and `<summary>` tags.
+
+*Example:*
+<details>
+<summary><b>Click to see screenshot</b></summary>
+Hello, World!
+</details>
+
+
+```markdown
+<details>
+<summary><b>Click to see screenshot</b></summary>
+Hello, World!
+</details>
+```
+
+**Note:** [Markdown](https://daringfireball.net/projects/markdown/syntax#html)
