@@ -287,4 +287,4 @@ Hello, World!
 </details>
 ```
 
-**Note:** [Markdown](https://daringfireball.net/projects/markdown/syntax#html)
+**Note:** [Markdown Syntax by daringfireball](https://daringfireball.net/projects/markdown/syntax#html)
