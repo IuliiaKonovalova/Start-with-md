@@ -250,13 +250,13 @@ Tables are created using the `|` symbol.
 
 You can add files to your Markdown document using the `[]()` format.
 
-```markdown
-[File](file.txt)
-```
+*Example:*
+[Txt file example](documentation/text-document-example.txt)
 
 ```markdown
-[User Journey](user-journey.pdf)
+[Txt file example](documentation/text-document-example.txt)
 ```
+
 
 *Note 1:* The file path should be relative to the current file.
 
