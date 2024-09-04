@@ -4,7 +4,6 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 ## Table of Contents
 
-
 1. [Headers](#headers)
     - [Subheaders](#subheaders)
 2. [Lists](#lists)
@@ -43,12 +42,19 @@ Links are created using the `[text](link)` format.
 
 Images are created using`![alt text](image path)` format.
 
+*Example:*
+
+![ERD example](documentation/my_project_visualized.png)
+
+---
+*Code:*
+
 ```markdown
-![Alt Text](https://example.com/image.jpg)
+![ERD example](documentation/my_project_visualized.png)
 ```
 
 *Note 1:* Remember to add the `alt` attribute to the image tag.
-*Note 2:* The image path should be relative to the current file.
+*Note 2:* The image path should be relative to the current file. If your image is not showing up, check your **image path, spelling, and capitalization**.
 
 ## Text Formatting
 
