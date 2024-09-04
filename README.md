@@ -262,8 +262,15 @@ You can add files to your Markdown document using the `[]()` format.
 
 If you create a folder `documentation` in the root directory, you can use the `[User Journey](documentation/user-journey.pdf)` format to link to a folder.
 
+
+*Example:*
+
+[PEP8 Validation Personnel Application](documentation/pep8_validation_personnel.pdf)
+
+*Code:*
+
 ```markdown
-[User Journey](documentation/user-journey.pdf)
+[PEP8 Validation Personnel Application](documentation/pep8_validation_personnel.pdf)
 ```
 
 ## Dropdowns
