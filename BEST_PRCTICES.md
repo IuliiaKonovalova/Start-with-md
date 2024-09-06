@@ -2,3 +2,15 @@
 
 The file name should be descriptive of the file or the purpose of the file. The same comes to the folder names.
 
+## Rules
+
+1. File names should be descriptive.
+2. Do not use spaces. Instead use:
+
+  - dashes: file-name.doc (preferred for search engines)
+  - underscores: file_name.doc
+  - camel case: FileName.doc (**Note:** Uppercase is allowed only in the particular cases like React components, etc.)
+  - upper case: FILENAME.dm (**Note:** Using all UpperCase is only recommended for documentation purposes using markdown syntax)
+
+3. Special characters should be avoided: ~ ! @ # $ % ^ & * ( ) ` ; < > ? , [ ] { } ‘ “
+
