@@ -14,3 +14,21 @@ The file name should be descriptive of the file or the purpose of the file. The 
 
 3. Special characters should be avoided: ~ ! @ # $ % ^ & * ( ) ` ; < > ? , [ ] { } ‘ “
 
+4. Use only 1 dot per filename as it belongs just prior to the file extension
+
+*Example:*
+- `manage.py`
+- `README.md`
+- `requirements.txt`
+
+
+5. Make name as descriptive as possible and as short as possible.
+
+6. If sequential numbering is required, use it in a proper format.
+
+*Example:*
+- `sample-001.csv`
+- `sample-002.csv`
+- `sample-003.csv`
+
+
