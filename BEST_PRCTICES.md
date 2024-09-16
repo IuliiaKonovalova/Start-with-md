@@ -32,3 +32,13 @@ The file name should be descriptive of the file or the purpose of the file. The 
 - `sample-003.csv`
 
 
+## Things to keep in mind
+
+When naming your files/folders consider the following:
+
+1. Purpose of the file/folder
+2. Location of the file/folder
+3. Project architecture
+4. Date
+5. Type of data
+6. Readability
